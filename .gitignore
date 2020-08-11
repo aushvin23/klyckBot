@@ -5,10 +5,10 @@ node_modules
 package
 
 # do not include the local environment files
-.env
+# .env
 
 # do not include the Connectors Json Db file
 connectors.json
 
 # do not include dist files
-dist
+# dist
